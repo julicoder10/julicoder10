@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julicoder10 and I'm 18 years old
-- 👀 I’m interested in html, css, javascript, angular, typescript and react (web development)
-- 🌱 I’m currently learning react and angular.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in html, css, javascript, sass, typescript, angular, python, bootstrap and angular material. (web development)
+- 🌱 I’m currently learning angular.
 - 📫 How to reach me: julian.andres.aquino33@gmail.com
 
 <!---
