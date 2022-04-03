@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @julicoder10 and I'm 18 years old
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m doing things with angular.
+- 👋 Hi, I’m @julicoder10 and I'm 18 years old, I'm from Buenos Aires, Argentina.
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m doing things with MEAN stack, and also basic pages like (html, css and javascript pages).
 - 📫 How to reach me: julian.andres.aquino33@gmail.com
 
 <!---
