@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julicoder10 and I'm 18 years old, I'm from Buenos Aires, Argentina.
+- 👋 Hi, I’m @julicoder10 and I'm 19 years old, I'm from Buenos Aires, Argentina.
 - 👀 I’m interested in fullstack development.
 - 🌱 Skills, html, css, javascript, typescript, sass, angular, leaflet, swiper, bootstrap, bulma, angular material, jquery, fonts awesome, git.
 - 📫 How to reach me: julian.andres.aquino33@gmail.com
